@@ -1,7 +1,6 @@
 ![MasterHead](https://engineering.coviam.com/wp-content/uploads/2017/10/gif-banner-messaging-strat.gif)
 <h1 align="center">Hi 👋, I'm Mitul Das</h1>
 <h3 align="center">A passionate Software Quality Tester from Bangladesh</h3>
-<img align="center" alt="Coding" width="70%" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mituldas1999&label=Profile%20views&color=0e75b6&style=flat" alt="mituldas1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mituldas1999" alt="mituldas1999" /></a> </p>
