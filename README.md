@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mituldas1999" alt="mituldas1999" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mitulda99270056" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mitulda99270056?logo=twitter&style=for-the-badge" alt="https://twitter.com/mitulda99270056" /></a> </p>
-
 - 🔭 I’m currently working on [Shohoz Web Automation Testing in Cypress](https://github.com/mituldas1999/Shohoz_Web_Automation_Testing_in_Cypress)
 
 - 🌱 I’m currently learning **Appium,JUnit,NMap etc**
