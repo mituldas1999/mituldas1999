@@ -1,6 +1,6 @@
 ![MasterHead](https://engineering.coviam.com/wp-content/uploads/2017/10/gif-banner-messaging-strat.gif)
 <h1 align="center">Hi 👋, I'm Mitul Das</h1>
-<h3 align="center">A passionate Software Quality Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Quality Engineer from Ts4u </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mituldas1999&label=Profile%20views&color=7c51f0&style=flat-square" alt="mituldas1999" /> </p>
 
