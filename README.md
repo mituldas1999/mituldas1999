@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bootcampshub Portal Automation Using Playwright](https://github.com/mituldas1999/Bootcampshub_Portal_Automation_Using_Playwright)
 
-- 🌱 I’m currently learning **Appium,JUnit,NMap etc**
+- 🌱 I’m currently learning **Web Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [https://mituldas.netlify.app/](https://mituldas.netlify.app/)
 
