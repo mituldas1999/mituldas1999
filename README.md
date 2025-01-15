@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mituldas1999&label=Profile%20views&color=7c51f0&style=flat-square" alt="mituldas1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mituldas1999" alt="mituldas1999" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
