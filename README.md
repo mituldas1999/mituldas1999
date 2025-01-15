@@ -36,6 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mituldas1999&show_icons=true&theme=dark&title_color=f5d400&text_color=ffffff&cache_seconds=1800&locale=en" alt="mituldas1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mituldas1999&theme=dark" alt="mituldas1999" /></p>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mituldas1999)
